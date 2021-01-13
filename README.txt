@@ -11,12 +11,12 @@ Functionality to be added includes:
 
 Brief Explanation of Files:
 
-main: Contains a loop that runs the game by calling the appropriate functions from the 		config module
+main: Contains a loop that runs the game by calling the appropriate functions from the config module
 
 config: Contains most of the logic for setting up and running each round of the game
 
 card: Represents the card objects to be used in the game deck
 	
-player: Contains an abstract class to represent a player of the Blackjack game. 		Two classes (Dealer and Gambler) inherit from this class.
+player: Contains an abstract class to represent a player of the Blackjack game. Two classes (Dealer and Gambler) inherit from this class.
 
-RoundResult: Contains an enumeration that is used to let the main function know the result 	of each round.
+RoundResult: Contains an enumeration that is used to let the main function know the result of each round.
