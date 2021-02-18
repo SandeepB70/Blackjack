@@ -4,8 +4,7 @@ Please note, this project is still in development, but does have enough function
 
 Currently, there is only one player and the dealer. The player can enter their total balance at the beginning of the game and how much they would like to bet. The player has the ability to only hit or stand and can continue to play until they choose to finish or they run out of money, at which point, the game notifies them and terminates.
 
-Functionality to be added includes: 
--Allowing up to 7 players in total (including the dealer)
+Functionality to be added includes:
 -Splitting pairs
 -Doubling down
 
